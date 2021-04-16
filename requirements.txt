@@ -1,3 +1,0 @@
-pip install flask
-pip install Flask-WTF
-pip install wtforms_components
